@@ -1,0 +1,92 @@
+# Druma.ai Evaluation‑Content Licence v1.0
+
+**Effective Date:** 07 April 2025
+
+---
+
+## 1. Definitions
+
+* **"Licensor"** means Druma.ai, a sole‑proprietorship registered in India.
+* **"Licensee"** means the individual or legal entity that downloads, clones, forks or otherwise obtains the Content.
+* **"Content"** means all images, videos, benchmark tables, PDFs, and other data files contained in this repository **excluding** any source code or binary executable files.
+* **"Evaluation Purpose"** means internal, non‑commercial testing, academic research, or technical feasibility assessment of Druma One technology.
+
+---
+
+## 2. Grant of Rights
+
+Subject to compliance with this Licence, Licensor grants Licensee a worldwide, royalty‑free, non‑exclusive, non‑transferable, revocable licence to:
+
+1. **Download and store** a single copy of the Content;
+2. **Display** the Content internally (e.g., on intranet pages, slide decks, lab demos);
+3. **Cite** numerical values or small excerpts of the Content (e.g., a single frame or table row) in academic or journalistic publications, provided proper attribution is given (see § 5).
+
+No other rights are granted. All rights not expressly granted are reserved by Licensor.
+
+---
+
+## 3. Restrictions
+
+Licensee shall **not**:
+
+* Redistribute, sublicense, or make the Content available to third parties outside Licensee’s organisation;
+* Use the Content, in whole or in part, in any commercial or revenue‑generating product or service;
+* Train, fine‑tune, validate, or otherwise develop machine‑learning models using the Content;
+* Reverse‑engineer, decompile, or attempt to derive any Druma One model weights, algorithms, or proprietary data from the Content;
+* Remove or alter any copyright, watermark, or attribution notices contained in the Content.
+
+---
+
+## 4. Term & Termination
+
+This Licence is effective upon receipt of the Content and remains in force until terminated.
+Licensor may terminate this Licence immediately upon written notice if Licensee breaches any term herein. Upon termination Licensee must delete all copies of the Content.
+
+---
+
+## 5. Attribution Requirements
+
+When citing or displaying the Content publicly (permitted under § 2), Licensee shall include the following notice, adjacent to the citation or excerpt:
+
+> “Courtesy of **Druma.ai – Druma One Evaluation Content**, released under the Druma.ai Evaluation‑Content Licence v1.0.”
+
+---
+
+## 6. No Transfer of Intellectual Property
+
+The Content and all intellectual‑property rights therein remain the exclusive property of Licensor. This Licence does **not** grant any licence under any patent, trademark, or trade‑secret owned or controlled by Licensor.
+
+---
+
+## 7. Disclaimer of Warranty
+
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON‑INFRINGEMENT.
+
+
+7.1 The Licensor does not warrant that the Content will meet Licensee’s
+    requirements or that any results will be accurate or reliable.
+
+---
+
+## 8. Limitation of Liability
+
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, ARISING FROM LICENSEE’S USE OF THE CONTENT.
+
+---
+
+## 9. Indemnification  
+   Licensee shall indemnify and hold harmless Licensor from any claims, damages
+   or costs arising out of Licensee’s use of the Content.
+
+
+## 10. Governing Law & Jurisdiction
+
+This Licence shall be governed by and construed in accordance with the laws of the Republic of India, without regard to its conflict‑of‑law provisions. Any dispute arising under or in connection with this Licence shall be subject to the exclusive jurisdiction of the courts located in Mumbai, Maharashtra, India.
+
+---
+
+## 11. Entire Agreement
+
+This document constitutes the entire agreement between the parties concerning the Content and supersedes all prior or contemporaneous oral or written representations.
+
+For commercial licences, evaluation API keys, or ASIC requirements, please contact **[nissim@druma.ai](mailto:nissim@druma.ai)**.
