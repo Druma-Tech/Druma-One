@@ -33,7 +33,7 @@ The colours encode **direction** using a standard HSV flow wheel:
 
 * **Traffic-flow clip (below).**  The camera is fixed; only objects move.  
   Cars in the left lane travel right-to-left → **yellow**, while cars in the right lane travel left-to-right → **orange**.  
-  Static background (road surface, distant buildings) appears grey, illustrating Druma One’s zero-drift flow on a locked-off shot.
+  Static background (road surface, distant buildings), illustrating Druma One’s zero-drift flow on a locked-off shot.
 
 <p align="center">
   <img src="gif/traffic_two_lane.gif" alt="Two-lane traffic demo" width="640"/>
