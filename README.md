@@ -58,7 +58,7 @@ Even fed *only* the detector’s point cloud, a 16-epoch VGG-16 auto-encoder rec
 
 | Folder               | Contents                                                                 |
 |----------------------|--------------------------------------------------------------------------|
-| `benchmarks/`        | PDF report: Druma One vs SuperPoint on 4 GPUs (same 640 × 480 clip)      |
+| `benchmarks/`        | PDF report: Druma One vs SuperPoint on 4 GPUs (640 × 480 clip)      |
 | `reconstructions/`   | Hand-picked set of triplets: ground truth, Druma One keypoints, AE output |
 | `videos/`            | Three short clips: traffic, drone orbit, handheld walk                   |
 | `gifs/`              | Gifs of the vidoes to be displayed in this readme                        |
