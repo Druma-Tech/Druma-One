@@ -5,8 +5,8 @@
 
 Assets only – no code in this repository.
 
-## Druma One Optical Flow – Point detection + dense motion
-Check out the three videos demonstrating Druma One Optical Flow in action.
+## Druma One: Dense Point Detection with LK Optical Flow
+Explore three demo videos showcasing Druma One’s high-speed point detection combined with Lucas-Kanade optical flow for dense motion tracking.
 
 <p align="center">
   <img src="gif/high_five.gif" alt="Hand-held camera demo" width="640"/>
