@@ -6,6 +6,8 @@
 Assets only – no code in this repository.
 
 ## Druma One Optical Flow – Point detection + dense motion
+Check out the three videos demonstrating Druma One Optical Flow in action.
+
 <p align="center">
   <img src="gif/high_five.gif" alt="Hand-held camera demo" width="640"/>
 </p>
